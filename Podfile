@@ -20,7 +20,7 @@ target 'ios-showcase-template' do
   pod 'SwiftKeychainWrapper'
   pod 'NotificationBannerSwift'
   pod 'RealmSwift'
-  pod 'SCLAlertView', :git => 'https://github.com/vikmeup/SCLAlertView-Swift.git', :branch => 'master'
+  pod 'SCLAlertView', :git => 'https://github.com/vikmeup/SCLAlertView-Swift.git', :branch => 'swift-2.3'
   pod 'Floaty', '~> 4.0.0'
   pod 'DTTJailbreakDetection'
   pod 'TrustKit'
